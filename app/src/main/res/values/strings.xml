@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Corona Stats Apps</string>
+    <string name="label_refresh">Refresh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_failed">Maaf ID dan Password Anda salah</string>
+    <string name="label_copyright">Aplikasi ini dibuat oleh Arif Rahman</string>
+    <string name="label_terapkan">Terapkan</string>
+    <string name="label_cari_provinsi">Cari Provinsi</string>
+    <string name="label_urutkan">Urutkan</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_asc_provinsi">Urutkan Naik Berdasarkan Provinsi</string>
+    <string name="label_desc_provinsi">Urutkan Turun Berdasarkan Provinsi</string>
+    <string name="label_asc_pos_case">Urutkan Naik Berdasarkan Kasus Positif</string>
+    <string name="label_desc_pos_case">Urutkan Turun Berdasarkan Kasus Positif</string>
+    <string name="label_reset">Reset</string>
+</resources>
